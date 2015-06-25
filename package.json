@@ -136,7 +136,7 @@
     "strip-ansi": "^2.0.1",
     "symlink-or-copy": "^1.0.1",
     "temp": "0.8.1",
-    "testem": "git+ssh://git@github.com/pifantastic/testem.git#3e993db",
+    "testem": "git+ssh://git@github.com/pifantastic/testem.git#c0ffc7b",
     "through": "^2.3.6",
     "tiny-lr": "0.1.5",
     "walk-sync": "0.1.3",
